@@ -1,5 +1,5 @@
 type: BurstDrill
-name: Digger
+name: Driller
 description: Uses small scale friction explosions to mine basic materials from the ground.
 size: 2
 category: production
