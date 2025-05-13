@@ -1,22 +1,14 @@
-type: BurstDrill
-name: Driller
-description: Uses small scale friction explosions to mine basic materials from the ground.
+type: Drill
 size: 2
-category: production
-hasLiquids: false
-research: {
-  parent: mechanical-drill
-}
-hardnessDrillMultiplier: 50
-drillTime: 10
-hasPower: false
 tier: 1
-shake: 0.5
-itemCapacity: 5
-researchCostMultiplier: 0.5
+drillTime: 20
+hardnessDrillMultiplier: 6
+liquidBoostIntensity: 2
+liquidCapacity: 40
+itemCapacity: 40
+category: production
 requirements: [
-copper/20
-lead/20
-graphite/20
+  copper/35
+  lead/20
+  graphite/10
 ]
-squareSprite: false
