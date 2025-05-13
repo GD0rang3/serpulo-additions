@@ -10,7 +10,7 @@ liquidCapacity: 40
 itemCapacity: 40
 category: production
 requirements: [
-  copper/70
-  lead/40
-  graphite/35
+  copper/300
+  lead/140
+  graphite/65
 ]
