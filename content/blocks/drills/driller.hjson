@@ -2,8 +2,8 @@ type: Drill
 name: "Driller"
 description: "drills its drill into the ground to drill drillable ores"
 size: 2
-tier: 2
-drillTime: 200
+tier: 3
+drillTime: 150
 hardnessDrillMultiplier: 6
 liquidBoostIntensity: 2
 liquidCapacity: 40
