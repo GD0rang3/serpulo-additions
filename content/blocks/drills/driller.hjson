@@ -3,7 +3,7 @@ name: "Driller"
 description: "drills its drill into the ground to drill drillable ores"
 size: 2
 tier: 3
-drillTime: 150
+drillTime: 60
 hardnessDrillMultiplier: 6
 liquidBoostIntensity: 2
 liquidCapacity: 40
@@ -11,9 +11,10 @@ itemCapacity: 40
 research: mechanical-drill
 category: production
 requirements: [
-  copper/300
+  copper/120
   lead/140
   graphite/65
+  silicon/10
 ]
 consumes:{
  power: 0.2
