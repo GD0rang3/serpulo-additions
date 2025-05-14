@@ -16,10 +16,10 @@ requirements: [
   graphite/65
 ]
 consumes:{
- power: 3
+ power: 0.2
  liquid:{
   liquid: water
-  amount: 1
+  amount: 0.1
   optional: true
   booster: true
   }
